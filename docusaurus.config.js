@@ -127,7 +127,7 @@ const config = {
               },
               {
                 label: 'Faturação',
-                to: '/src/pages/faturas.md', 
+                to: '/faturas', 
               },
             ],
           },
